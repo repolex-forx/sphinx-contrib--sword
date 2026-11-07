@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sword/commit/4d304290ae46bcd01bba63888c36d3d503112acd",
       "git:hexsha": "4d304290ae46bcd01bba63888c36d3d503112acd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T00:49:44.238894+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sword/commit/b19a54ef69941e25613060e5a85a9a2d272a1655",
