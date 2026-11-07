@@ -1,0 +1,20 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sphinx-contrib/sword",
+  "@type": "gh:Repository",
+  "gh:name": "sword",
+  "gh:owner": "sphinx-contrib",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/sphinx-contrib/sword/commit/4d304290ae46bcd01bba63888c36d3d503112acd",
+      "git:hexsha": "4d304290ae46bcd01bba63888c36d3d503112acd",
+      "repolex:parseStatus": "metadata_complete"
+    },
+    {
+      "@id": "https://repolex.ai/r/sphinx-contrib/sword/commit/b19a54ef69941e25613060e5a85a9a2d272a1655",
+      "git:hexsha": "b19a54ef69941e25613060e5a85a9a2d272a1655",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0"
+    }
+  ]
+}

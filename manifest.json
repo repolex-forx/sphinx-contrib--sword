@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "sword",
+  "versions": [
+    {
+      "commit": "4d304290ae46bcd01bba63888c36d3d503112acd",
+      "parsed_at": "2026-11-07T00:47:54.705011+00:00",
+      "filetree": "filetree/4d304290ae46bcd01bba63888c36d3d503112acd.nq.gz",
+      "blobs": [
+        "blob/2c9b242cb57358dccf889caf8f9a6c8a64757227.nq.gz",
+        "blob/9860de7838cf242cdeb0d3b27c05ec589f3a137c.nq.gz",
+        "blob/477c43f3ef6eb313518eab3331cc11de45469efc.nq.gz",
+        "blob/09206c4bb2901779e7f22a91e0f03c50a63ecda9.nq.gz",
+        "blob/45dd5f5b51e10661a6b6699e050c4ab23d721804.nq.gz",
+        "blob/2d74c58f248790e34e482eb07e20ec6c753c9d2d.nq.gz",
+        "blob/62ddeb71ecf9d7327a0ddc375b52ba1834255986.nq.gz",
+        "blob/b5a7dc29ef0f7f3593b1c61cfc5dfe8a17d3918c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
