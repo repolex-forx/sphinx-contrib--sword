@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "sword",
+  "versions": [
+    {
+      "commit": "4d304290ae46bcd01bba63888c36d3d503112acd",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:49:44.239291+00:00"
+    }
+  ]
+}
